@@ -27,5 +27,20 @@
     <ClCompile Include="재귀호출함수.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="숫자맞추기게임.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터의포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="더블포인터와CBR.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="다중포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="함수포인터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

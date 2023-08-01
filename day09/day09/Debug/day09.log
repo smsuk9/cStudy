@@ -1,2 +1,6 @@
-﻿  재귀호출함수.c
+﻿  함수포인터.c
+D:\C12_SMS\work\day09\day09\함수포인터.c(16,8): warning C4552: '+': 식의 결과가 사용되지 않습니다.
+D:\C12_SMS\work\day09\day09\함수포인터.c(25,30): warning C4047: '함수': 'int (__cdecl *)()'의 간접 참조 수준이 'int'과(와) 다릅니다.
+D:\C12_SMS\work\day09\day09\함수포인터.c(25,24): warning C4024: 'tripleadd': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+D:\C12_SMS\work\day09\day09\함수포인터.c(18): warning C4716: 'tripleadd': 값을 반환해야 합니다.
   day09.vcxproj -> D:\C12_SMS\work\day09\Debug\day09.exe
