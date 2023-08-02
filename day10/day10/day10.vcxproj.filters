@@ -24,5 +24,20 @@
     <ClCompile Include="기타동적할당함수.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="응용문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체와배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="typedef선언.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체실습.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
