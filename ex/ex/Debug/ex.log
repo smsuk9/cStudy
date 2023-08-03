@@ -1,6 +1,2 @@
 ﻿  해보기.c
-D:\C12_SMS\work\ex\ex\해보기.c(14,23): warning C4022: 'realloc': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
-D:\C12_SMS\work\ex\ex\해보기.c(13,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\C12_SMS\work\ex\ex\해보기.c(15,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\C12_SMS\work\ex\ex\해보기.c(13): warning C4700: 초기화되지 않은 'str2' 지역 변수를 사용했습니다.
   ex.vcxproj -> D:\C12_SMS\work\ex\Debug\ex.exe

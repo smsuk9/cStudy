@@ -1,6 +1,27 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 void main() {
+
+	FILE* fp1 = NULL;
+
+	//1. 파일열기
+	fp1 = fopen("D:/C12_SMS/work/folder/file1.txt", "w");
+
+	//2. 파일작업
+	if (fp1 == NULL) {
+		printf("파일 작업 실패\n");
+	}
+	else
+	{
+		printf("파일열기 성공\n");
+		fputs("hello", fp1);
+	}
+
+	//3. 파일닫기
+	fclose(fp1);
+
+
 	//파일
 	//C언어에서 파일은 바이트로 이루어진 집합으로 취급
 

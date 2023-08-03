@@ -33,5 +33,14 @@
     <ClCompile Include="파일입출력.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="회원가입.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="파일읽어오기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="자료구조.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
